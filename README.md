@@ -3,6 +3,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    <a href="www.linkedin.com/in/dileep-kumar-219121235 target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+  </a>
+  <a href="dileepkumar18311@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/000000/email.png" alt="email" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
