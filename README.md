@@ -1,5 +1,7 @@
+<div align="center">
+
 # 👋 Hey, I'm Dileep Kumar  
-### Software Engineer 
+### 💻 Software Engineer  
 
 I love building products that make an impact — whether it’s a sleek front-end experience or a well-architected backend system.  
 Currently exploring **AI-powered apps**, **real-time communication systems**, and **scalable backend design**.
@@ -7,7 +9,7 @@ Currently exploring **AI-powered apps**, **real-time communication systems**, an
 ---
 
 ### 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dileep-kumar-219121235)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dileep-kumar-219121235)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dileepkumar18311@gmail.com)
 
 ---
@@ -30,6 +32,9 @@ Currently exploring **AI-powered apps**, **real-time communication systems**, an
 
 ---
 
-### 📈 GitHub Insights  
-![Dileep's GitHub stats](https://github-readme-stats.vercel.app/api?username=dileep&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dileep&layout=compact&theme=tokyonight)
+### 📊 GitHub Stats  
+
+<img src="https://github-readme-stats.vercel.app/api?username=dileep&show_icons=true&theme=tokyonight" height="170px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dileep&layout=compact&theme=tokyonight" height="170px" /> 
+
+</div>
