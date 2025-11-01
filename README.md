@@ -2,10 +2,6 @@
 
 # 👋 Hey, I'm Dileep Kumar  
 ### 💻 Software Engineer  
-
-I love building products that make an impact — whether it’s a sleek front-end experience or a well-architected backend system.  
-Currently exploring **AI-powered apps**, **real-time communication systems**, and **scalable backend design**.
-
 ---
 
 ### 🌐 Connect With Me  
