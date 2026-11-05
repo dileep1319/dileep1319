@@ -44,15 +44,20 @@
 | [**currency-convertor**](https://github.com/dileep1319/currency-convertor) | Currency conversion app |
 | [**dileep-mern-10pshine**](https://github.com/dileep1319/dileep-mern-10pshine) | MERN stack project |
 
-### 📊 GitHub stats
+### 📊 GitHub at a glance
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dileep1319&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dileep1319&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/dileep1319?style=for-the-badge&logo=github&color=58a6ff&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/Public_repos-17-58a6ff?style=for-the-badge&logo=github&labelColor=161b22" />
+  <img src="https://img.shields.io/github/stars/dileep1319/YouTube-clone-react?style=for-the-badge&logo=github&color=58a6ff&labelColor=161b22&label=YouTube+clone+stars" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dileep1319&theme=tokyo-night&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dileep1319/dileep1319/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dileep1319/dileep1319/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/dileep1319/dileep1319/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
